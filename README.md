@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![roadmap.sh](https://roadmap.sh/card/tall/665a0a2eb998f3b3c718a5d2?variant=dark)](https://roadmap.sh)
+
 <!--
 **JesusG16/JesusG16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

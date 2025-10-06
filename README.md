@@ -1,13 +1,27 @@
 ## Hi there 👋
-*(English/Español)*
-Data scientist with a background in physics and mathematics. Currently working in informetrics with an emphasis on data visualization, open to work on other projects in data or programming as freelance.
+*(English)*
+Colombian data scientist with a background in mathematics and physics. Currently working in data science applied to informetrics with an emphasis on data visualization, open to work part-time on other projects in data or programming as freelancer.
 
-Científico de datos con formación en física y matemáticas. Actualmente trabajo en informetría con énfasis en visualización de datos, abierto a trabajar en otros proyectos relacionados a datos o programación como freelance. 
+Currently back in college to obtain a BSc in Computer Science at Universidad nacional de Colombia.
 
-- 📫 How to reach me/Contacto: jesus.a.gaitan16@gmail.com
+*(Español)*
+Científico de datos colombiano con formación en matemáticas y física. Actualmente trabajo en ciencia de datos aplicada a informetría con énfasis en visualización de datos, estoy abierto a trabajar a tiempo parcial en otros proyectos relacionados a datos o programación como freelancer. 
 
-[![roadmap.sh](https://roadmap.sh/card/tall/665a0a2eb998f3b3c718a5d2?variant=dark)](https://roadmap.sh)
+Actualmente soy estudiante de pregrado en Ciencias de la Computación en la Universidad nacional de Colombia.
 
+### Tech stack
+
+Although I'm always open to work with new and different tools of all kinds, currently the languages I commonly work with are:
+
+- Python 
+- Html/css/vainilla js
+- SQL
+
+### How to reach me/Contacto: 
+jesus.a.gaitan16@gmail.com
+
+
+  
 <!--
 **JesusG16/JesusG16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
